@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WKJm0YhJdNLBP7FWHHYV9nbRL0o2UWzHEYsYyIP/lS/ZXGuqr2Wl+GbducMujRJGRxCwWB8Zv4xaQpm1XwtOWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Артём\\Desktop\\Csharp\\MDK_Lab1Belykh_1\\MDK_Lab1Belykh_1\\MDK_Lab1Belykh_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Артём\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Артём\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Артём\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
